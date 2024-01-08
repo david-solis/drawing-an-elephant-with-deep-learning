@@ -1,9 +1,9 @@
 # Drawing an Elephant with Deep Learning
 
-Python notebook that solves Carlos Ruiz's (Colegio de Matemáticas Bourbaki) challenge.
+Python notebook that solves [Carlos Ruiz's (Colegio de Matemáticas Bourbaki) challenge.](https://www.linkedin.com/pulse/sobrejuste-de-elefantes-%2525C3%2525A0-la-von-neumann-y-una-beca-carlos-ruiz--jhxgc/)
 
 ## Objective.
-Using advanced mathematical modeling, construct and analyze a dataset to parameterize the curve from Mayer et al.'s paper (Drawing an elephant with four complex parameters.)
+Using advanced mathematical modeling, construct and analyze a dataset to parameterize the curve from Mayer et al.'s paper ([Drawing an elephant with four complex parameters.](https://pubs.aip.org/aapt/ajp/article-abstract/78/6/648/1042069/Drawing-an-elephant-with-four-complex-parameters))
 
 ## Specification
 
