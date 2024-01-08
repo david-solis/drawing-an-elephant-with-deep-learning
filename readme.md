@@ -1,4 +1,5 @@
 # Drawing an Elephant with Deep Learning
+
 Python notebook that solves Carlos Ruiz's (Colegio de Matemáticas Bourbaki) challenge.
 
 ## Objective.
